@@ -16,5 +16,5 @@ def countdown_with_sleep (runtime)
     return runtime.real.to_i
   end
 
-    
+
 end
