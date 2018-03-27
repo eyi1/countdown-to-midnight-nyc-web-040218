@@ -12,8 +12,8 @@ x = integer
 def countdown_with_sleep (runtime)
 
   while runtime > 0
-    runtime -=1 
+    runtime -=1
   end
-    
+
     
 end
